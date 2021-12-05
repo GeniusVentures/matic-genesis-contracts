@@ -1,4 +1,4 @@
-pragma solidity ^0.5.11;
+pragma solidity >=0.5.11;
 
 interface ValidatorSet {
 	// Get initial validator set
